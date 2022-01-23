@@ -1,16 +1,14 @@
+![](https://komarev.com/ghpvc/?username=jacob953)
+
 ### Hi there 👋
 
-<!--
-**Jacob953/Jacob953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacob953&show_icons=true&hide_title=true">
 
-Here are some ideas to get you started:
+This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently playing Go, Docker & Java
+- 💬 Ask me about anything related to back-end
+- 📫 How to reach me: [@jacob953](mailto:jacob953@csu.edu.cn)
+
+<img width="100%" src="https://github.com/jacob953/jacob953/blob/output/github-contribution-grid-snake.svg">
