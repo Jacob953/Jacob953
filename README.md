@@ -17,7 +17,7 @@
 ### About Me
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently playing Go, Docker & C++
+- 🌱 I’m currently playing Go, Java
 - 💬 Ask me about anything related to back-end
 - 📫 How to reach me: [@jacob953](mailto:jacob953@csu.edu.cn)
 
