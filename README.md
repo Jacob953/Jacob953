@@ -1,6 +1,15 @@
-### 🧑🏻‍💻 [Jacob953](https://github.com/Jacob953)
+### [Hi, HERE! 👋](https://github.com/Jacob953)
 
-👋 Hi here, I'm Jacob953, this is the place where I opensource stuff and break things :rofl:
+I am **Junfeng Yu**(a.k.a 余俊锋), an authentic Chinese boy from Guizhou. I usually surf the Internet by the alias Jacob953(Yu), except Gmail. This is the place where I opensource stuff and break things.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacob953&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff">
+
+- 🔭 I do Full-stack development, concentrated more on the Backend.
+- 🌱 I’m currently working on some meaningful work, 
+  - 📖 [EvalCSU](https://github.com/Jacob953/evalcsu), a CS experience sharing platform for special CSUer.
+- 🔑 Visit my [online Resume](https://jacob953.com) if you want to know more about me.
+- 📫 Feel free to contact me via [@jacob953](mailto:jacob953@csu.edu.cn)
+- 🤗 Have a nice day!
 
 <div align="center">
   <a href="https://github.com/Jacob953">
@@ -9,16 +18,7 @@
   <a href="mailto:loptr953@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"">
   </a>
-    <img src="https://komarev.com/ghpvc/?username=jacob953" alt="star">
+    <img src="https://komarev.com/ghpvc/?username=jacob953" alt="views">
 </div>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacob953&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-
-### About Me
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently playing Go, Java
-- 💬 Ask me about anything related to back-end
-- 📫 How to reach me: [@jacob953](mailto:jacob953@csu.edu.cn)
 
 <img width="100%" src="https://github.com/jacob953/jacob953/blob/output/github-contribution-grid-snake.svg">
