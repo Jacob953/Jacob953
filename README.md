@@ -4,7 +4,7 @@ I am **Junfeng Yu**(a.k.a 余俊锋), an authentic Chinese boy from Guizhou. I u
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jacob953&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff">
 
-- 🔭 I do Full-stack development, concentrated more on the Backend.
+- 🔭 I do Interest development, concentrated more on the Backend.
 - 🌱 I’m currently working on some meaningful work, 
   - 📖 [EvalCSU](https://github.com/Jacob953/evalcsu), a CS experience sharing project for the CSUer.
 - 🔑 Visit my [online Resume](https://jacob953.com) if you want to know more about me.
