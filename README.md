@@ -16,7 +16,7 @@ I am **Junfeng Yu**(a.k.a 余俊锋), an authentic Chinese boy from Guizhou. I u
   <a href="https://github.com/Jacob953">
     <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white">
   </a>
-  <a href="mailto:loptr953@gmail.com">
+  <a href="mailto:i@jacob953.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"">
   </a>
     <img src="https://komarev.com/ghpvc/?username=jacob953" alt="views">
