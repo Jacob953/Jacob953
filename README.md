@@ -8,7 +8,7 @@ I am **Junfeng Yu**(a.k.a 余俊锋), an authentic Chinese boy from Guizhou. I u
 - 🌱 I’m currently working on some meaningful work, 
   - 📚 [EvalCSU](https://evalcsu.github.io/evalcsu/), a CS experience sharing project for the CSUer.
   - 📖 [Darker Corners of Go](https://Jacob953.com/darker-corners-of-go/), copyrighted solo translation into Chinese verison.
-- 🔑 Visit my [online Resume](https://jacob953.com/) if you want to know more about me.
+- 🔑 Visit my [online Resume]() if you want to know more about me.
 - 📫 Feel free to contact me via [@jacob953](mailto:i@jacob953.com)
 - 🤗 Have a nice day!
 
