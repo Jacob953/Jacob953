@@ -1,10 +1,16 @@
 # Hi, I'm Junfeng 👋
 
-I like building things, taking systems apart, and writing down what I learn.
+I like making things and figuring out how they work.
 
-These days, I'm working on [OJO](https://ojo.art/), writing at [LUTRA.ICU](https://lutra.icu/), and following whatever technical rabbit hole looks interesting that week.
+## Lately
 
-You'll find a mix of experiments, tools, half-finished ideas, and the occasional useful thing here. I tend to wander around agents, databases, distributed systems, embedded hardware, and market data—but curiosity is usually the real theme.
+- Building [OJO](https://ojo.art/) and exploring how agents can turn loose ideas into things people can actually use.
+- Writing and collecting notes at [LUTRA.ICU](https://lutra.icu/).
+- Playing with agents, embedded hardware, market data, and small tools made mostly because I wanted them to exist.
+
+## Away from the keyboard
+
+I read, write, make cocktails, and collect new rabbit holes faster than I can finish the old ones.
 
 Elsewhere: [LinkedIn](https://www.linkedin.com/in/jacob953/) · [Email](mailto:i@jacob953.com)
 
